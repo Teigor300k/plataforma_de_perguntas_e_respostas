@@ -1,0 +1,28 @@
+body{
+    background: whitesmoke;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: rgb(140, 121, 121);
+}
+
+.navbar-collapse{
+    justify-content: end;
+    justify-items: end;
+}
+
+.navbar-toggler{
+    background-color: antiquewhite;
+    border: none;
+}
+
+.card{
+    margin:20px 0;
+}
+.perguntas{
+    padding-top: 20px;
+}
